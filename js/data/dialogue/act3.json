@@ -1,0 +1,62 @@
+{
+  "intro": [
+    { "speaker": "diva", "portrait": "diva", "text": "Nunca habíamos grabado los cinco juntos en la misma sala. Ni siquiera en el primer disco." },
+    { "speaker": "fabs", "portrait": "fabs", "text": "Porque el estudio bueno solo tenía cabina para tres. Esto no es un gesto simbólico, es logística." },
+    { "speaker": "starless", "portrait": "starless", "text": "Dile eso a la sala. Porque a mí no me da sensación de logística." },
+    { "speaker": "dani", "portrait": "dani", "text": "\"Todo lo que compones ya estaba compuesto. La grandeza no es crear, es admitir de dónde viene lo que ya existía antes de ti.\"" },
+    { "speaker": "diva", "portrait": "diva", "text": "\"La voz no pertenece a quien la posee, sino a quien se atreve a soltarla.\"" },
+    { "speaker": "starless", "portrait": "starless", "text": "\"Solo una versión de ti puede quedarse con la canción. Elige antes de que alguien más lo haga por ti.\"" },
+    { "speaker": "fabs", "portrait": "fabs", "text": "\"Nadie aplaude a quien sostiene la nota más grave. Se nota solo cuando falta.\"" },
+    { "speaker": "adrian", "portrait": "adrian", "text": "\"No hay primera vez para quien lleva el compás. Solo hay vueltas que se olvidan entre una y la siguiente.\"", "typewriterSpeed": 45 },
+    { "speaker": "diva", "portrait": "diva", "text": "Cinco piezas. Y encajan como si las hubiera escrito una sola persona pensando en los cinco." },
+    { "speaker": "dani", "portrait": "dani", "text": "O como si llevara escritas mucho tiempo, esperando a que las encontráramos por separado." },
+    { "speaker": "fabs", "portrait": "fabs", "text": "Todavía podemos irnos. Dejar el libro aquí, grabar lo de siempre, hacer como que esta noche no ha pasado." },
+    { "speaker": "starless", "portrait": "starless", "text": "¿Alguien de verdad quiere hacer eso?" },
+    { "speaker": "adrian", "portrait": "adrian", "text": "Creo que esto ya se decidió antes de que llegáramos a esta sala." },
+    { "speaker": "dani", "portrait": "dani", "text": "Entonces grabemos el disco. Que por lo menos merezca la pena lo que sea que estemos pagando." }
+  ],
+  "action_sequence": [
+    { "speaker": "{{protagonist}}", "portrait": "{{protagonist}}", "text": "Si esto va a sonar mejor de lo que soy capaz de sonar yo solo... que se note que lo decidí yo." },
+    { "type": "ACTION_BEAT", "memberId": "{{protagonist}}" },
+    { "speaker": "{{protagonist}}", "portrait": "{{protagonist}}", "text": "Ya está. Sea lo que sea, ya está grabado." }
+  ],
+  "reactions": {
+    "diva": [
+      { "speaker": "dani", "portrait": "dani", "text": "No sabía que tu voz podía sonar así. Ni siquiera después de todos estos años." },
+      { "speaker": "starless", "portrait": "starless", "text": "Ha sonado a ella. Solo que más ella de lo normal." },
+      { "speaker": "fabs", "portrait": "fabs", "text": "Voy a fingir que eso no me ha puesto los pelos de punta. No lo estoy consiguiendo." },
+      { "speaker": "adrian", "portrait": "adrian", "text": "Ojalá lo mío hubiera sonado tan claro como lo tuyo." }
+    ],
+    "dani": [
+      { "speaker": "diva", "portrait": "diva", "text": "Siempre dices que \"siempre funciona\". Por primera vez, no ha sonado a ti diciéndolo." },
+      { "speaker": "starless", "portrait": "starless", "text": "Bienvenido al club de admitir cosas en voz alta." },
+      { "speaker": "fabs", "portrait": "fabs", "text": "Ese riff no estaba en ningún ensayo que yo recuerde. Y llevo la cuenta de todos." },
+      { "speaker": "adrian", "portrait": "adrian", "text": "Ha sido raro. Como si ya lo hubiera escuchado en algún sitio antes de esta noche." }
+    ],
+    "starless": [
+      { "speaker": "diva", "portrait": "diva", "text": "Nunca te había visto tocar así de segura de ti misma." },
+      { "speaker": "dani", "portrait": "dani", "text": "Ha estado bien, Starless. De verdad." },
+      { "speaker": "fabs", "portrait": "fabs", "text": "Por fin alguien de esta banda decide algo sin preguntarle antes a nadie." },
+      { "speaker": "adrian", "portrait": "adrian", "text": "No sé qué has hecho ahí dentro, pero ha sonado a decisión, no a duda." }
+    ],
+    "fabs": [
+      { "speaker": "diva", "portrait": "diva", "text": "Nunca te había visto tocar algo tan tuyo. Siempre estás sosteniendo lo de los demás." },
+      { "speaker": "dani", "portrait": "dani", "text": "Esa base va a sostener todo el disco. Literalmente." },
+      { "speaker": "starless", "portrait": "starless", "text": "Por una vez, el que pregunta si estamos bien debería preguntárselo alguien a él." },
+      { "speaker": "adrian", "portrait": "adrian", "text": "Ese pulso no ha temblado ni un segundo. Ojalá el mío fuera así de firme." }
+    ],
+    "adrian": [
+      { "speaker": "diva", "portrait": "diva", "text": "Pensaba que ibas a distraerte a mitad. No lo has hecho." },
+      { "speaker": "dani", "portrait": "dani", "text": "Ese patrón... me suena. No sé de dónde, pero me suena." },
+      { "speaker": "starless", "portrait": "starless", "text": "Se te ha visto concentrado de verdad. No es lo habitual en ti." },
+      { "speaker": "fabs", "portrait": "fabs", "text": "Llevas raro toda la noche. Pero esto ha sonado bien." }
+    ]
+  },
+  "ending": [
+    { "speaker": "diva", "portrait": "diva", "text": "Es el mejor disco que hemos hecho nunca." },
+    { "type": "NARRATION", "text": "El disco se publicó meses después." },
+    { "type": "NARRATION", "text": "Fue, en efecto, el mejor que habían hecho nunca." },
+    { "type": "NARRATION", "text": "Nadie del grupo volvió a mencionar el libro." },
+    { "type": "NARRATION", "text": "Nadie preguntó dónde había terminado.", "typewriterSpeed": 55 }
+  ]
+}

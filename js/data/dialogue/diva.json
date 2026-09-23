@@ -1,0 +1,66 @@
+{
+  "entrance": [
+    {
+      "speaker": "diva",
+      "portrait": "diva",
+      "text": "Qué raro suena mi propia voz aquí dentro. Como si no terminara de salir."
+    }
+  ],
+  "notebook_first_read": [
+    {
+      "speaker": "diva",
+      "portrait": "diva",
+      "text": "\"No hay nada que temer en decir la verdad con la voz de otro. Solo hay que dejarla pasar.\""
+    },
+    {
+      "speaker": "diva",
+      "portrait": "diva",
+      "text": "Esto lo escribí yo. Tiene que ser mío. No recuerdo cuándo, pero es mi letra."
+    }
+  ],
+  "notebook_second_read": [
+    {
+      "speaker": "diva",
+      "portrait": "diva",
+      "text": "\"No hay nada que temer en decir la verdad con la voz de OTRA. Solo hay que dejarla pasar.\"",
+      "typewriterSpeed": 45
+    },
+    {
+      "speaker": "diva",
+      "portrait": "diva",
+      "text": "...No decía \"otra\". Decía \"otro\". Lo he leído hace un momento."
+    },
+    {
+      "speaker": "diva",
+      "portrait": "diva",
+      "text": "A no ser que no lo escribiera pensando en mí.",
+      "typewriterSpeed": 55
+    }
+  ],
+  "action_read_aloud": [
+    {
+      "speaker": "diva",
+      "portrait": "diva",
+      "text": "Si esto es mío, sonará como yo."
+    },
+    { "type": "ACTION_BEAT", "memberId": "diva" },
+    {
+      "speaker": "diva",
+      "portrait": "diva",
+      "text": "No ha sonado como yo."
+    },
+    {
+      "speaker": "diva",
+      "portrait": "diva",
+      "text": "Ha sonado mejor."
+    }
+  ],
+  "closing": [
+    {
+      "speaker": "diva",
+      "portrait": "diva",
+      "text": "Espero que fuera mía. La que sonó ahí dentro."
+    }
+  ],
+  "pageFragment": "La voz no pertenece a quien la posee, sino a quien se atreve a soltarla. La mejor nota que cantarás nunca será tuya del todo — y no lo sabrás hasta que sea demasiado tarde para que te importe."
+}

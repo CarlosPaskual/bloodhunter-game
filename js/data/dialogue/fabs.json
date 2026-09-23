@@ -1,0 +1,60 @@
+{
+  "entrance": [
+    {
+      "speaker": "fabs",
+      "portrait": "fabs",
+      "text": "Cómo no, el sótano. Siempre me toca a mí el sitio donde no se ve nada."
+    }
+  ],
+  "panel_low": [
+    {
+      "speaker": "fabs",
+      "portrait": "fabs",
+      "text": "Esto suena a nevera vieja. Nada del otro mundo."
+    }
+  ],
+  "panel_mid": [
+    {
+      "speaker": "fabs",
+      "portrait": "fabs",
+      "text": "Vale, esto ya suena más fuerte. Pero tampoco es esto."
+    }
+  ],
+  "panel_high_first": [
+    {
+      "speaker": "fabs",
+      "portrait": "fabs",
+      "text": "Esto no es una nevera."
+    },
+    {
+      "speaker": "fabs",
+      "portrait": "fabs",
+      "text": "Es una nota. Una sola nota, sostenida. Como si alguien llevara tocándola desde... no sé, desde siempre."
+    },
+    {
+      "speaker": "fabs",
+      "portrait": "fabs",
+      "text": "Odio admitirlo, pero esto me suena a algo que yo mismo tocaría en un ensayo cuando nadie me escucha."
+    }
+  ],
+  "manipulate_valve": [
+    {
+      "speaker": "fabs",
+      "portrait": "fabs",
+      "text": "Si esto para, igual para porque tenía que parar. O igual para porque yo he decidido pararlo. No sé cuál de las dos me da más miedo."
+    },
+    {
+      "speaker": "fabs",
+      "portrait": "fabs",
+      "text": "Llevaba tanto tiempo sonando que no me había dado cuenta de cuánto pesaba."
+    }
+  ],
+  "closing": [
+    {
+      "speaker": "fabs",
+      "portrait": "fabs",
+      "text": "Llevo años siendo el que pregunta \"¿estáis todos bien?\" antes de cada show. Nunca nadie me lo pregunta a mí primero."
+    }
+  ],
+  "pageFragment": "Nadie aplaude a quien sostiene la nota más grave. Se nota solo cuando falta. Pregúntate quién te sostiene a ti — y qué pasará el día que decida dejar de hacerlo sin avisar."
+}

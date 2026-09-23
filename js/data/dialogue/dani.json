@@ -1,0 +1,103 @@
+{
+  "entrance": [
+    {
+      "speaker": "dani",
+      "portrait": "dani",
+      "text": "Vale. Entro, busco, salgo. Nadie tiene que saber que estoy aquí a las tres de la mañana persiguiendo una corazonada."
+    },
+    {
+      "speaker": "dani",
+      "portrait": "dani",
+      "text": "Un clásico. Meterme dentro de una caja no sería mala idea, ahora que lo pienso."
+    }
+  ],
+  "hide_box_joke": [
+    {
+      "speaker": "dani",
+      "portrait": "dani",
+      "text": "...No cabo. Esto en las películas parece mucho más digno."
+    }
+  ],
+  "alert_spotted": [
+    {
+      "speaker": "dani",
+      "portrait": "dani",
+      "text": "Por poco. Como me vea Fabs preguntando qué hago aquí a estas horas, tendré que admitir que no tengo ni idea de qué estoy buscando."
+    }
+  ],
+  "case_wrong": [
+    {
+      "speaker": "dani",
+      "portrait": "dani",
+      "text": "Este está en orden. Sigamos."
+    }
+  ],
+  "case_found": [
+    {
+      "speaker": "dani",
+      "portrait": "dani",
+      "text": "Bien. Concéntrate. Números de serie, orden cronológico. Yo mismo los organicé así."
+    },
+    {
+      "speaker": "dani",
+      "portrait": "dani",
+      "text": "Este no debería estar aquí. Yo no dejo las cosas fuera de sitio. Nunca."
+    },
+    {
+      "speaker": "dani",
+      "portrait": "dani",
+      "text": "A no ser que lo moviera yo mismo y no me acuerde. Últimamente eso pasa más de lo que me gustaría admitir."
+    },
+    {
+      "speaker": "dani",
+      "portrait": "dani",
+      "text": "\"Todo lo que compones ya estaba compuesto. Tú solo lo encontraste primero que los demás.\""
+    },
+    {
+      "speaker": "dani",
+      "portrait": "dani",
+      "text": "Eso explicaría muchas cosas. Y ninguna me gusta."
+    }
+  ],
+  "codec_call": [
+    {
+      "speaker": "starless",
+      "portrait": "starless",
+      "text": "Dani. Sé que estás ahí dentro. Se ve luz por debajo de la puerta.",
+      "isCodec": true,
+      "typewriterSpeed": 30
+    },
+    {
+      "speaker": "dani",
+      "portrait": "dani",
+      "text": "No estoy aquí.",
+      "isCodec": true
+    },
+    {
+      "speaker": "starless",
+      "portrait": "starless",
+      "text": "Llevas media hora \"no estando ahí\". ¿Has encontrado algo o solo estás evitándome desde el camerino?",
+      "isCodec": true
+    },
+    {
+      "speaker": "dani",
+      "portrait": "dani",
+      "text": "He encontrado algo que no sé si quiero que sea verdad.",
+      "isCodec": true
+    },
+    {
+      "speaker": "starless",
+      "portrait": "starless",
+      "text": "Bienvenido al club.",
+      "isCodec": true
+    }
+  ],
+  "closing": [
+    {
+      "speaker": "dani",
+      "portrait": "dani",
+      "text": "Siempre digo que \"siempre funciona\". Nunca digo por qué funciona. Puede que nunca lo haya sabido de verdad."
+    }
+  ],
+  "pageFragment": "Todo lo que compones ya estaba compuesto. Tú solo lo encontraste primero que los demás. La grandeza no es crear — es admitir de dónde viene lo que ya existía antes de ti."
+}

@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  height: 100%;
+  background: #05060a;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: monospace;
+}
+
+#game-canvas {
+  border: 2px solid #2d3a52;
+  image-rendering: pixelated;
+  cursor: pointer;
+}

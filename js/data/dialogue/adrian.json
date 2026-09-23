@@ -1,0 +1,53 @@
+{
+  "entrance": [
+    {
+      "speaker": "adrian",
+      "portrait": "adrian",
+      "text": "Vale, esto es literalmente mi trabajo. Cajas. Muchas cajas. Genial."
+    }
+  ],
+  "found_tape": [
+    {
+      "speaker": "adrian",
+      "portrait": "adrian",
+      "text": "Anda, una cinta. Ya nadie usa esto."
+    },
+    {
+      "speaker": "adrian",
+      "portrait": "adrian",
+      "text": "No pone nada. Ni fecha ni nombre. Raro, porque yo etiqueto todo. Odio no saber qué es algo."
+    }
+  ],
+  "play_tape": [
+    {
+      "speaker": "adrian",
+      "portrait": "adrian",
+      "text": "Vale, esto es... esto lo reconozco. Es mío. Es mi forma de tocar el hi-hat, esa manía de adelantarme medio tiempo."
+    },
+    {
+      "speaker": "adrian",
+      "portrait": "adrian",
+      "text": "Pero no recuerdo haber grabado esto. Y llevo grabando demos desde que tenía quince años. Me acuerdo de todas. De literalmente todas."
+    },
+    {
+      "speaker": "adrian",
+      "portrait": "adrian",
+      "text": "Y esto... esto ya lo he escuchado. No en esta gira. No sé cuándo. Pero lo he escuchado.",
+      "typewriterSpeed": 45
+    },
+    {
+      "speaker": "adrian",
+      "portrait": "adrian",
+      "text": "¿Cuántas veces hemos hecho ya esto?",
+      "typewriterSpeed": 55
+    }
+  ],
+  "closing": [
+    {
+      "speaker": "adrian",
+      "portrait": "adrian",
+      "text": "No se lo voy a decir a los demás. Todavía no. Puede que no sea nada."
+    }
+  ],
+  "pageFragment": "El ritmo que crees inventar ya lo tocaste antes. Y antes de eso, también. No hay primera vez para quien lleva el compás — solo hay vueltas que se olvidan entre una y la siguiente."
+}

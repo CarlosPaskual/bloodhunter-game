@@ -1,0 +1,33 @@
+{
+  "entrance": [
+    { "speaker": "fabs", "portrait": "fabs", "text": "Como el dueño de este sitio no haya dejado nada de valor, me vuelvo a la furgo a dormir." },
+    { "speaker": "adrian", "portrait": "adrian", "text": "Yo ya estoy dormido. Esto es un sueño. Despertadme cuando lleguemos al hotel." },
+    { "speaker": "dani", "portrait": "dani", "text": "Cinco minutos. El tipo dijo que había cajas sin abrir desde los noventa. Puede haber algo bueno." },
+    { "speaker": "starless", "portrait": "starless", "text": "\"Algo bueno\" en un almacén que huele a humedad y decepción. Vale, cinco minutos." },
+    { "speaker": "diva", "portrait": "diva", "text": "Aquí hay tres cajas cerradas." }
+  ],
+  "box_wig": [
+    { "speaker": "adrian", "portrait": "adrian", "text": "A ver, a ver..." },
+    { "speaker": "adrian", "portrait": "adrian", "text": "...Fabs, esto es tuyo. Te queda mejor que tu pelo real." },
+    { "speaker": "fabs", "portrait": "fabs", "text": "Como se te ocurra ponerte eso en el escenario, te dejo sin línea de graves en el próximo show." },
+    { "speaker": "starless", "portrait": "starless", "text": "Guárdala. Es lo más terrorífico que vamos a encontrar aquí esta noche." }
+  ],
+  "box_photo": [
+    { "speaker": "dani", "portrait": "dani", "text": "Esto era de alguien de verdad. Mirad la fecha." },
+    { "speaker": "diva", "portrait": "diva", "text": "¿Qué banda es esa?" },
+    { "speaker": "dani", "portrait": "dani", "text": "No lo sé. Nunca he oído hablar de ellos." },
+    { "speaker": "starless", "portrait": "starless", "text": "Eso es lo que da miedo. Que ni siquiera los recuerdes." }
+  ],
+  "box_book": [
+    { "speaker": "fabs", "portrait": "fabs", "text": "¿Eso es todo? Pensaba que sería más... no sé, más dramático." },
+    { "speaker": "diva", "portrait": "diva", "text": "Pesa más de lo que parece." },
+    { "speaker": "dani", "portrait": "dani", "text": "Déjame ver. Si hay algo de teoría musical ahí dentro que no hayamos probado..." },
+    { "speaker": "starless", "portrait": "starless", "text": "Dani, siempre eres tú el primero en querer \"probar cosas nuevas\"." },
+    { "speaker": "dani", "portrait": "dani", "text": "Y siempre funciona." },
+    { "speaker": "fabs", "portrait": "fabs", "text": "¿Nos vamos ya o qué? Mañana hay que conducir seis horas." },
+    { "speaker": "fabs", "portrait": "fabs", "text": "¿Esto es nuestro ahora? ¿Nos lo llevamos sin más?" },
+    { "speaker": "diva", "portrait": "diva", "text": "Ya lo tengo en las manos, Fabs." },
+    { "type": "NARRATION", "text": "Se llevaron el libro esa misma noche." },
+    { "type": "NARRATION", "text": "Nadie volvió a mencionar la foto ni la banda sin nombre.", "typewriterSpeed": 45 }
+  ]
+}

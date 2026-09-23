@@ -1,0 +1,71 @@
+{
+  "entrance": [
+    {
+      "speaker": "starless",
+      "portrait": "starless",
+      "text": "Siguen sin poner mi nombre en la puerta. Da igual cuántas giras llevemos."
+    }
+  ],
+  "mirror_normal_1": [
+    {
+      "speaker": "starless",
+      "portrait": "starless",
+      "text": "Al menos aquí decido yo qué cara pongo."
+    }
+  ],
+  "mirror_normal_3": [
+    {
+      "speaker": "starless",
+      "portrait": "starless",
+      "text": "Este lo compró Dani de gira, ¿no? Siempre elige él el atrezzo del camerino."
+    }
+  ],
+  "mirror_normal_4": [
+    {
+      "speaker": "starless",
+      "portrait": "starless",
+      "text": "Este ni siquiera es mío. Ya estaba aquí cuando llegamos de gira."
+    }
+  ],
+  "mirror_delay_first": [
+    {
+      "speaker": "starless",
+      "portrait": "starless",
+      "text": "Y este ya estaba aquí antes de que..."
+    },
+    {
+      "speaker": "starless",
+      "portrait": "starless",
+      "text": "Vuelve a hacerlo.",
+      "typewriterSpeed": 55
+    }
+  ],
+  "mirror_delay_confirm": [
+    {
+      "speaker": "starless",
+      "portrait": "starless",
+      "text": "No me estás copiando. Me estás siguiendo.",
+      "typewriterSpeed": 50
+    }
+  ],
+  "break_mirror": [
+    {
+      "speaker": "starless",
+      "portrait": "starless",
+      "text": "Si vas a llevar mi cara un segundo más tarde que yo, prefiero no tener cara ahí dentro."
+    },
+    {
+      "speaker": "starless",
+      "portrait": "starless",
+      "text": "No sé si acabo de romper un espejo o de ganar una discusión que llevaba diez años sin tener con nadie."
+    }
+  ],
+  "closing": [
+    {
+      "speaker": "starless",
+      "portrait": "starless",
+      "text": "Dani siempre dice que \"siempre funciona\". A ver si esta vez funciona para mí y no solo para él."
+    }
+  ],
+  "pageFragment": "Solo una versión de ti puede quedarse con la canción. La otra se queda con el silencio que hay detrás. Elige antes de que alguien más lo haga por ti — o antes de que ya lo haya hecho."
+}
